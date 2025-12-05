@@ -61,7 +61,8 @@ DB_PASSWORD=password
 
 ## ER 図
 
-（ER 図画像をここに貼ってください）
+<img width="909" height="739" alt="image" src="https://github.com/user-attachments/assets/76b0aaa7-3c48-4b9b-8660-9d63420c3685" />
+
 
 ---
 
